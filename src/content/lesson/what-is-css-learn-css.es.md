@@ -17,7 +17,7 @@ Luego de sumergirnos en el mundo de HTML todo empieza a parecer feo, rígido y c
 
 
 
-Peeeero… El internet es mas hermoso que eso. La cosa se puso seria cuando Internet empezó a hacerse más y más popular. Dejó de ser utilizado únicamente por la comunidad científica y el ejército, **¡comenzó a ser adoptado por todo el mundo!**
+Peeeero… El internet es más hermoso que eso. La cosa se puso seria cuando Internet empezó a hacerse más y más popular. Dejó de ser utilizado únicamente por la comunidad científica y el ejército, **¡comenzó a ser adoptado por todo el mundo!**
 
 Irónicamente, los mismos científicos de CERN que crearon HTML, tuvieron que ponerse a pensar en cómo mejorar lo que habían hecho y se dieron a la tarea de embellecerlo. En este momento fue cuando [Håkon Wium Lie](https://en.wikipedia.org/wiki/H%C3%A5kon_Wium_Lie), propuso la primera versión de CSS en 1994, que luego fue adaptado hasta convertirse en CSS1.
 
